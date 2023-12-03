@@ -1,0 +1,47 @@
+
+/* navbar */
+.navbar-brand {
+    font-family: 'Viga', sans-serif;
+    font-size: 40px;
+}
+.nav-link {
+    text-transform: uppercase;
+    margin-right: 30px;
+}
+.col-md-6 {
+    margin-top: 80px;
+}
+h4 {
+    margin-right: 250px;
+}
+.quotes {
+    text-align: justify;
+    margin-top: 35px;
+}
+.nama {
+    text-align: center;
+    margin-right: 30px;
+    
+}
+img {
+    margin-right: 250px;
+}
+h1 {
+    text-align: center;
+    font-family: fantasy;
+    padding-top: 30px;
+    color: grey;
+    
+}
+#logo {
+    font-size: 40px;
+}
+#aboutq {
+  font-size: 30px;
+  text-align: justify;
+  padding-top: 150px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.sosmed {
+    padding-right: 260px;
+}
